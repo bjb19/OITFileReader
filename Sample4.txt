@@ -1,0 +1,5 @@
+What happens when you try and access a fake file?
+Lets Find out!
+Change me
+Open up a fake file after me
+and then try and open me again :)
